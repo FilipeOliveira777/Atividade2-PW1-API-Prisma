@@ -1,0 +1,4 @@
+node_modules
+.env
+package.json-copia
+package-lock.json-copia
